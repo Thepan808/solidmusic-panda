@@ -129,4 +129,5 @@
   "player_mode_already_set": "**Modo de tocar já definido para {}**",
   "wrong_play_vplay_input": "**Dê-me algum nome ou link do youtube.**",
   "duration_reach_limit": "Limite de alcance de duração, duração permitida é {}"
+  "stats_text": "**Estatísticas globais para {}**\n\n**🤖 Bot versão**: `{}`\n**PyTgCalls versão**: `{}`\n**🔥 Pyrogram versão**: `{}`\n**🐍 Python versão**: `{}`\n\n**🤖 Bot status**\n**Status**: `Online`\n**Grupos**: `{}` grupos\n**Pm**: `{}` pms\n\n**⚒️ Sistema status**\n**CPU usado**: `{}`\n**RAM usado**: `{}`\n**Memória usada**: `{}`\n**Memória restantes**: `{}`\n**Total de memória**: `{}`\n**Arquitetura**: `{}`\n**Plataforma**: `{}`"
 }
